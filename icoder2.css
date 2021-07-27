@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-item{
+
+    height: 100vh;
+
+}
+
+.col-sm-6 img{
+    height: 50vh;
+    position: relative;
+    left: 200px;
+    border-radius: 50px;
+}
+
+.Skills .row .front{
+    margin-left: 150px;
+    height: 180px;
+    border-radius: 18px;
+    box-shadow: 30px 30px 10px 0px rgba(110, 123, 131, 0.1);
+}
+
+.front ul{
+    list-style: none;
+}
+
+.footer .main{
+    
+    text-align: center;
+}
